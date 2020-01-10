@@ -1,0 +1,14 @@
+h1: good for titles and headings 
+attributise:none
+example <h1>cats<h1/>
+
+h6:is the smallest title
+
+attridutes none
+
+example: <h6>cats</h6>
+
+p: is a paragarfe format 
+attributes:none 
+example <p> cat are nice. <p/>
+
