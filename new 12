@@ -2,13 +2,70 @@ h1: good for titles and headings
 attributise:none
 example <h1>cats<h1/>
 
+h2: good for sud headings or titles
+attributise:none
+example <h2>cats<h2/>
+
 h6:is the smallest title
-
 attridutes none
+example <h6>cats</h6>
 
-example: <h6>cats</h6>
+head: is were you countain all the wed browser infomation
+attributes:none
+<head>  <!--used for info of the wed browser-->
+<title>first wedsite</title>
+</head>
+
+html:is somthing you need to put at the top and bottom of your project to set it to html insead of somthing elas
+attributes:none
+example </html>
+
+img=for pictures 
+attributes:none
+example <img src="cat.png">
+
+li: is for lists
+attributes: none
+example
+<body>
+
+<ol>
+<li> make list </li>
+<li> go on get hud </li>
+<li> put this on gethud </li>
+<li> go too drafting </li>
+<li> save the pengiunes from climet change </li>
+<ol>
+</body>
+
+ol: is used to order links
+attributes:none
+example
+<body>
+<ol>
+<li> make list </li>
+<li> go on get hud </li>
+<li> put this on gethud </li>
+<li> go too drafting </li>
+<li> save the pengiunes from climet change </li>
+<ol>
+</body>
+
 
 p: is a paragarfe format 
 attributes:none 
 example <p> cat are nice. <p/>
+
+ul: stands for unordred list 
+attributes:none
+example
+<body>
+<ul>
+<li> make list </li>
+<li> go on get hud </li>
+<li> put this on gethud </li>
+<li> go too drafting </li>
+<li> save the pengiunes from climet change </li>
+<ul>
+</body>
 
