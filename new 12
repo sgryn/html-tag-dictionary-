@@ -1,5 +1,17 @@
+body:used to struture text 
+attributes:none
+example <body>
+{fount-color:lilac;
+}
+<ol>
+<li> feed him at 6:00 am or he will scratch everything </li>
+<li> feed him at 4:00 pm or he will scratch everything </li><body>
+<ol>
+</body>
 
-
+!doctype: is used too contain info about the wed browers such as the picture at the topof the tad
+attributes: none
+<!doctype html>
 
 div: seperrates texts of info 
 attributes non
@@ -72,8 +84,25 @@ example
 <li> go on get hud </li>
 
 
-stlyle: creates astyle for the document 
+stlyle: creates astyle for the document begining and end of a css text
 attributes: none
+<style>
+#myheading {
+backround-color:badyblue;
+text-align: center;
+}
+</style>
+
+title: to make the title of your wed site
+attributes: none
+<title>first wedsite</title>
+
+
+
+
+
+
+
 <style>
 backround-color: green;
 </style>
