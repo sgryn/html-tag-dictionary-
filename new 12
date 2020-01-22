@@ -1,3 +1,10 @@
+
+
+
+div: seperrates texts of info 
+attributes non
+example <div> hi </div>
+
 h1: good for titles and headings 
 attributise:none
 example <h1>cats<h1/>
@@ -63,6 +70,14 @@ example
 <ul>
 <li> make list </li>
 <li> go on get hud </li>
+
+
+stlyle: creates astyle for the document 
+attributes: none
+<style>
+backround-color: green;
+</style>
+
 <li> put this on gethud </li>
 <li> go too drafting </li>
 <li> save the pengiunes from climet change </li>
